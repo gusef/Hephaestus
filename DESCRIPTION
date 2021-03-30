@@ -1,0 +1,25 @@
+Package: hephaestus
+Title: Dan's analytical toolbox
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Dan",
+           family = "Gusenleitner",
+           role = c("aut", "cre"),
+           email = "gusef24@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Collection of Dan's favorite R functions
+Depends: edgeR,
+         graphics,
+         grDevices,
+         grid,
+         gtable,
+         limma,
+         RColorBrewer, 
+         scales, 
+         SummarizedExperiment,
+         stats 
+License: MIT license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1

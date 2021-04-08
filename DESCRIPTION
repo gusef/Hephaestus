@@ -12,11 +12,14 @@ Depends: edgeR,
          graphics,
          grDevices,
          grid,
+         GSVA,
          gtable,
          limma,
+         maxstat,
          RColorBrewer, 
          scales, 
          SummarizedExperiment,
+         survminer,
          stats 
 License: MIT license
 Encoding: UTF-8
